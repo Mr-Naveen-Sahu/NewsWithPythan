@@ -1,0 +1,13 @@
+2024-10-05 16:07:52,973 - WARNING - Failed login attempt for: kuldeepkumarkbr@gamil.com
+2024-10-05 16:09:06,644 - WARNING - Password length less than 8 characters.
+2024-10-05 16:09:14,119 - WARNING - Password length less than 8 characters.
+2024-10-05 16:09:20,279 - WARNING - Password missing special character.
+2024-10-05 16:09:51,956 - INFO - New user registered: ajju@gmail.com
+2024-10-05 16:11:49,744 - INFO - New user registered: naveen@gmail.com
+2024-10-05 16:12:21,521 - INFO - User logged in: naveen@gmail.com
+2024-10-05 16:12:42,917 - ERROR - HTTP error during API request for user naveen@gmail.com: 401 Client Error: Unauthorized for url: https://newsapi.org/v2/top-headlines?q=5JrBNRiQsXtLN3UgD09GgmVpcE9k3Mqi2HWbyBKBsLHTDHlJ&apiKey=f5JrBNRiQsXtLN3UgD09GgmVpcE9k3Mqi2HWbyBKBsLHTDHlJ
+2024-10-05 16:14:15,383 - WARNING - Failed login attempt for: naveen@gmail.com
+2024-10-05 16:14:37,045 - INFO - User logged in: naveen@gmail.com
+2024-10-05 16:14:41,302 - ERROR - HTTP error during API request for user naveen@gmail.com: 401 Client Error: Unauthorized for url: https://newsapi.org/v2/top-headlines?q=5&apiKey=f5JrBNRiQsXtLN3UgD09GgmVpcE9k3Mqi2HWbyBKBsLHTDHlJ
+2024-10-05 16:17:00,144 - INFO - User logged in: naveen@gmail.com
+2024-10-05 16:17:03,232 - INFO - User naveen@gmail.com fetched top 5 news articles for topic: 5
